@@ -25,6 +25,6 @@ Challenge with basic of html an css !
 
 ## Author
 - github - (https://github.com/leiliforoghi/summary-component-main.git)
-- Frontend Mentor - [@leiliforoghi](https://www.frontendmentor.io/profile/@leiliforoghi)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/leiliforoghi](https://www.frontendmentor.io/profile/leiliforoghi)
 
 ## Thanks for looking !
